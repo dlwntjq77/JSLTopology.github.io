@@ -1,5 +1,31 @@
 ---
 permalink: /
+title: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a graduate student in mathematics at KAIST.
+
+My research interests are in differential geometry, affine differential geometry, and related areas.
+
+## Research interests
+
+- Differential geometry
+- Affine differential geometry
+- Affine maximal hypersurfaces
+- Geometric analysis
+
+## Papers and preprints
+
+I will update this section with my papers and preprints.
+
+## Contact
+
+Email: dlwntjq77@kaist.ac.kr---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
